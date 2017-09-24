@@ -12,7 +12,7 @@ Prototipo inicial de un juego tactico RPG.
 <p align="center"><img src="https://github.com/MoonAntonio/Proto-Tactic/blob/master/res/prev.gif?raw=true"></p>
 
 
-## Acreditaciones
+## Acreditaciones y Licencias
 
 - [Piablood][1] Personajes 2D
 
