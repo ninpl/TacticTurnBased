@@ -81,7 +81,7 @@ namespace MoonAntonio.Glitch.Clases
 		/// </summary>
 		/// <param name="grid">Grid del nivel.</param>
 		/// <returns></returns>
-		public virtual List<Area> GetAreasInRango(Grid grid)// Obtener areas a rango
+        public virtual List<Area> GetAreasInRango(Glitch.Comun.Grid grid)// Obtener areas a rango
 		{
 			List<Area> retValue = grid.Buscar(unidad.Area, CompruebaBusqueda);
 			Filtro(retValue);

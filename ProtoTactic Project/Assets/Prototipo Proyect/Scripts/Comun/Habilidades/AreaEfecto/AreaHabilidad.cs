@@ -28,7 +28,7 @@ namespace MoonAntonio.Glitch.Clases
 		/// <param name="board"></param>
 		/// <param name="pos"></param>
 		/// <returns></returns>
-		public abstract List<Area> GetAreasEnArea(Grid board, Punto pos);
+        public abstract List<Area> GetAreasEnArea(Glitch.Comun.Grid board, Punto pos);
 		#endregion
 	}
 }

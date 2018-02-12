@@ -64,7 +64,7 @@ namespace MoonAntonio.Glitch.Clases
 		/// </summary>
 		/// <param name="grid"></param>
 		/// <returns></returns>
-		public abstract List<Area> GetAreasARango(Grid grid);// Obtener el area a rango
+		public abstract List<Area> GetAreasARango(Glitch.Comun.Grid grid);// Obtener el area a rango
 		#endregion
 	}
 }

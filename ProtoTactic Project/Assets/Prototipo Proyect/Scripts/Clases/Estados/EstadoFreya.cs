@@ -47,7 +47,7 @@ namespace MoonAntonio.Glitch.Clases
 		/// <summary>
 		/// <para>Grid del juego.</para>
 		/// </summary>
-		public Grid Grid
+        public Glitch.Comun.Grid Grid
 		{
 			get { return freya.grid; }
 		}
