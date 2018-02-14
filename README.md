@@ -9,8 +9,11 @@
 # Proto-Tactic
 Prototipo inicial de un juego tactico RPG (Prototipo bajo nivel).
 
+---
+
 <p align="center"><img src="https://github.com/MoonAntonio/Proto-Tactic/blob/master/res/prev.gif?raw=true"></p>
 
+---
 
 ## Acreditaciones y Licencias
 
