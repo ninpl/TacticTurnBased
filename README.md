@@ -7,7 +7,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/MoonAntonio/Proto-Tactic.svg)](https://github.com/MoonAntonio/Proto-Tactic/stargazers)
 
 # Proto-Tactic
-Prototipo inicial de un juego tactico RPG (Prototipo bajo nivel).
+Prototipo inicial de un juego tactico RPG (Prototipo de bajo nivel (POO)).
 
 ---
 
