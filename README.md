@@ -14,6 +14,15 @@ Prototipo inicial de un juego tactico RPG (Prototipo de bajo nivel (POO)).
 <p align="center"><img src="https://github.com/MoonAntonio/Proto-Tactic/blob/master/res/prev.gif?raw=true"></p>
 
 ---
+## ¿Como usar?
+
+* Descargar [Unity3D Engine][99]
+* Abrir el proyecto en la escena BattleProto
+* Ejecutar la escena
+
+[99]: https://unity3d.com
+
+---
 
 ## Acreditaciones y Licencias
 
