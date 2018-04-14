@@ -88,6 +88,7 @@ LightmapSettings:
     m_PVRFilteringAtrousPositionSigmaDirect: 0.5
     m_PVRFilteringAtrousPositionSigmaIndirect: 2
     m_PVRFilteringAtrousPositionSigmaAO: 1
+    m_ShowResolutionOverlay: 1
   m_LightingDataAsset: {fileID: 0}
   m_UseShadowmask: 0
 --- !u!196 &5
@@ -109,6 +110,8 @@ NavMeshSettings:
     manualTileSize: 0
     tileSize: 256
     accuratePlacement: 0
+    debug:
+      m_Flags: 0
   m_NavMeshData: {fileID: 0}
 --- !u!1 &370099597
 GameObject:
@@ -242,7 +245,7 @@ Prefab:
     - target: {fileID: 224359283483121096, guid: f780d3898002f484697af9af1e35a2fd,
         type: 2}
       propertyPath: m_AnchoredPosition.y
-      value: 0
+      value: -24.444445
       objectReference: {fileID: 0}
     - target: {fileID: 224359283483121096, guid: f780d3898002f484697af9af1e35a2fd,
         type: 2}
@@ -252,7 +255,7 @@ Prefab:
     - target: {fileID: 224359283483121096, guid: f780d3898002f484697af9af1e35a2fd,
         type: 2}
       propertyPath: m_SizeDelta.y
-      value: 0
+      value: 28.88889
       objectReference: {fileID: 0}
     - target: {fileID: 224914425264390166, guid: f780d3898002f484697af9af1e35a2fd,
         type: 2}
@@ -272,7 +275,7 @@ Prefab:
     - target: {fileID: 224914425264390166, guid: f780d3898002f484697af9af1e35a2fd,
         type: 2}
       propertyPath: m_AnchoredPosition.y
-      value: 0
+      value: -21.444445
       objectReference: {fileID: 0}
     - target: {fileID: 224914425264390166, guid: f780d3898002f484697af9af1e35a2fd,
         type: 2}
@@ -282,12 +285,12 @@ Prefab:
     - target: {fileID: 224914425264390166, guid: f780d3898002f484697af9af1e35a2fd,
         type: 2}
       propertyPath: m_SizeDelta.y
-      value: 0
+      value: 42.88889
       objectReference: {fileID: 0}
     - target: {fileID: 224450157560585798, guid: f780d3898002f484697af9af1e35a2fd,
         type: 2}
       propertyPath: m_SizeDelta.y
-      value: 0
+      value: 58.888885
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: f780d3898002f484697af9af1e35a2fd, type: 2}

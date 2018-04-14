@@ -161,8 +161,10 @@ namespace MoonAntonio.Glitch.PreProduccion
 
 			string nombreNivel = string.Format("Assets/Prototipo Proyect/Resources/Levels/{1}.asset", filePath, nomNivel);
 
+#if UNITY_EDITOR
 			// Crear el nivel
 			AssetDatabase.CreateAsset(nivel, nombreNivel);
+#endif
 		}
 
 		/// <summary>
@@ -245,6 +247,7 @@ namespace MoonAntonio.Glitch.PreProduccion
 		/// </summary>
 		private void CrearDirectorio()// Crea el directorio
 		{
+#if UNITY_EDITOR
 			// Obtener la ruta de resources
 			string filePath = Application.dataPath + "/Prototipo Proyect/Resources";
 
@@ -262,6 +265,7 @@ namespace MoonAntonio.Glitch.PreProduccion
 
 			// Refrescar
 			AssetDatabase.Refresh();
+#endif
 		}
 
 		/// <summary>
