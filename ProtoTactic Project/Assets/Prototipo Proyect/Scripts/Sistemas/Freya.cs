@@ -34,7 +34,7 @@ namespace MoonAntonio.Glitch.Sistemas
 		/// <summary>
 		/// <para>Grid del juego.</para>
 		/// </summary>
-        public Glitch.Comun.Grid grid;										// Grid del juego
+		public Glitch.Comun.Grid grid;										// Grid del juego
 		/// <summary>
 		/// <para>Data del nivel.</para>
 		/// </summary>
