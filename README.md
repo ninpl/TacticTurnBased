@@ -4,30 +4,32 @@
 [![GitHub license](https://img.shields.io/badge/license-AGPL-blue.svg)](https://raw.githubusercontent.com/MoonAntonio/Proto-Tactic/master/LICENSE)
 [![GitHub forks](https://img.shields.io/github/forks/MoonAntonio/Proto-Tactic.svg)](https://github.com/MoonAntonio/Proto-Tactic/network)
 [![GitHub stars](https://img.shields.io/github/stars/MoonAntonio/Proto-Tactic.svg)](https://github.com/MoonAntonio/Proto-Tactic/stargazers)
+[[**ENG**][3]/[**ESP**][4]]
 
 # Proto-Tactic
-Prototipo inicial de un juego tactico RPG (Prototipo de bajo nivel (POO)).
+Initial prototype of an RPG tactical game (Low Level Prototype (POO)).
 
 ---
 
 <p align="center"><img src="https://github.com/MoonAntonio/Proto-Tactic/blob/master/res/prev.gif?raw=true"></p>
 
 ---
-## ¿Como usar?
+## How to use?
 
-* Descargar [Unity3D Engine][99]
-* Abrir el proyecto en la escena BattleProto
-* Ejecutar la escena
-
-[99]: https://unity3d.com
+* Download [Unity3D Engine][99]
+* Open the project in the BattleProto scene
+* Run the scene
 
 ---
 
-## Acreditaciones y Licencias
+## Accreditations and Licenses
 
-- [Piablood][1] Personajes 2D
+- [Piablood][1] 2D characters
 
 - [Borodar][2] Skys
 
 [1]: http://blog.livedoor.jp/piablood/
 [2]: http://www.borodar.com/
+[3]: https://github.com/MoonAntonio/Proto-Tactic/blob/master/README.md
+[4]: https://github.com/MoonAntonio/Proto-Tactic/blob/master/README-ESP.md
+[99]: https://unity3d.com
