@@ -1,17 +1,17 @@
 
 <h1 align="center">
   <br>
-  <a href="https://github.com/moonantonio/README-Template"><img src="https://github.com/moonantonio/README-Template/blob/master/res/logo.png?raw=true" alt="LogoRepo" width="100"></a>
+    <a href="https://github.com/moonantonio/TacticTurnBased"><img src="https://github.com/moonantonio/TacticTurnBased/blob/master/res/logo.png?raw=true" alt="LogoRepo" width="100"></a>
   <br>
-  README-Template
+  TacticTurnBased
   <br>
 </h1>
 
-<h4 align="center">Template for <a href="https://github.com/" target="_blank">github</a> readme.</h4>
+<h4 align="center">Initial prototype of a tactical RPG game. <a href="https://unity.com/" target="_blank">In Unity</a>.</h4>
 
 <p align="center">
   <a href="https://unity.com/">
-    <img src="https://img.shields.io/badge/Unity-2020.1-brightgreen"
+    <img src="https://img.shields.io/badge/Unity-2019.4.8f1-brightgreen"
          alt="Unity">
   </a>
   <a href="https://docs.unity3d.com/2019.1/Documentation/Manual/dotnetProfileSupport.html">
@@ -28,37 +28,47 @@
 </p>
 <p align="center">
 <sup> <!-- Languages -->
-      <img src="https://github.com/moonantonio/README-Template/blob/master/res/languageicon-36.png?raw=true" width="18" height="18">
+      <img src="https://github.com/moonantonio/TacticTurnBased/blob/master/res/languageicon-36.png?raw=true" width="18" height="18">
       <sup>
-            <a href="https://github.com/moonantonio/README-Template/blob/master/README.md">Spanish</a>,
+            <a href="https://github.com/moonantonio/TacticTurnBased">Spanish</a>,
             English,
-            <a href="https://github.com/moonantonio/README-Template/blob/master/README.md">Chinese (中文)</a>,
       </sup>
 </sup>
 </p>
 
-<p align="center"><img src="https://github.com/moonantonio/README-Template/blob/master/res/fondo.png?raw=true" width=600 alt="Screenshot of Example"></p>
+<p align="center"><img src="https://github.com/moonantonio/TacticTurnBased/blob/master/res/fondo.gif?raw=true" width=600 alt="Screenshot of Example"></p>
 
-<p align="center"><em>Example of what is shown in the descriptive image/gif above. Check it out at <a href="https://github.com/moonantonio/README-Template">xx.doc</a>.</em></p>
+<p align="center"><em>Character movement and conversation. Version <a href="https://semver.org/">xx.0.9</a>.</em></p>
 
 ## About The Project
 
-<img src="https://github.com/moonantonio/README-Template/blob/master/res/info.png?raw=true" align="right"
+[![GitHub issues](https://img.shields.io/github/issues/MoonAntonio/Proto-Tactic.svg)](https://github.com/MoonAntonio/Proto-Tactic/issues)
+[![UnityVersion](https://img.shields.io/badge/Unity-2017.3.1f1-blue.svg)](https://unity3d.com/es)
+[![Trello](https://img.shields.io/badge/Trello-OFF-red.svg)](https://github.com/MoonAntonio/Proto-Tactic)
+[![GitHub license](https://img.shields.io/badge/license-AGPL-blue.svg)](https://raw.githubusercontent.com/MoonAntonio/Proto-Tactic/master/LICENSE)
+[![GitHub forks](https://img.shields.io/github/forks/MoonAntonio/Proto-Tactic.svg)](https://github.com/MoonAntonio/Proto-Tactic/network)
+[![GitHub stars](https://img.shields.io/github/stars/MoonAntonio/Proto-Tactic.svg)](https://github.com/MoonAntonio/Proto-Tactic/stargazers)
+
+<img src="https://github.com/moonantonio/TacticTurnBased/blob/master/res/info.png?raw=true" align="right"
      alt="Info" width="200" height="320">
      
-Project description.
+Prototype of a tactical rpg, inspired by the classic FFT, Vagrand ...
+
+Basic functionality to move around, switch units, create a conversation, and add skills.
 
 ## How To Use
 
-Description of how to use
+* Download [Unity3D Engine] [99]
+* Open the project in the BattleProto scene
+* Run the scene
 
 ```
-git clone https://github.com/moonantonio/README-Template.git
+git clone https://github.com/moonantonio/TacticTurnBased.git
 ```
   
 ## Download
 
-You can [download](https://github.com/moonantonio/README-Template/releases) the latest installable version of **README-Template**.
+You can [download](https://github.com/moonantonio/TacticTurnBased/releases/tag/1.0.0) the latest installable version of **TacticTurnBased**.
   
 ## Contributors
 
@@ -68,7 +78,7 @@ You can [download](https://github.com/moonantonio/README-Template/releases) the 
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
 
-The project is now maintained by [Moon Antonio](https://github.com/moonantonio) with help from contributors ([list](https://github.com/moonantonio/README-Template/graphs/contributors)).
+The project is now maintained by [Moon Antonio](https://github.com/moonantonio) with help from contributors ([list](https://github.com/moonantonio/TacticTurnBased/graphs/contributors)).
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
@@ -80,10 +90,12 @@ The project is now maintained by [Moon Antonio](https://github.com/moonantonio) 
 
 
 ## License
-[MIT](https://github.com/moonantonio/README-Template/blob/master/LICENSE)
+[GNU](https://github.com/moonantonio/TacticTurnBased/blob/master/LICENSE)
 
 ---
 
 > [moonantonio.github.io](https://moonantonio.github.io/) &nbsp;&middot;&nbsp;
 > GitHub [@moonantonio](https://github.com/moonantonio) &nbsp;&middot;&nbsp;
 > Twitter [@AntonioMoonNull](https://twitter.com/AntonioMoonNull)
+
+[99]: https://unity3d.com
