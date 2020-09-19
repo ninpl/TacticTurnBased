@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/moonantonio/TacticTurnBased/blob/master/res/logo.png?raw=true" alt="LogoRepo" width="100"></a>
+    <a href="https://github.com/moonantonio/TacticTurnBased"><img src="https://github.com/moonantonio/TacticTurnBased/blob/master/res/logo.png?raw=true" alt="LogoRepo" width="100"></a>
   <br>
   TacticTurnBased
   <br>
