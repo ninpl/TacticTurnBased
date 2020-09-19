@@ -58,7 +58,7 @@ Basic functionality to move around, switch units, create a conversation, and add
 
 ## How To Use
 
-* Download [Unity3D Engine] [99]
+* Download [Unity3D Engine][99]
 * Open the project in the BattleProto scene
 * Run the scene
 
